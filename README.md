@@ -1,5 +1,10 @@
-![Navigate + GamePad](Assets/Logo/NavPad-logo.png)
-# NavPad
+<p align="center">
+  <img  src="Assets/Logo/NavPad-logo.png">
+</p>
+
+<p align="center">
+
+# Navigate + GamePad = NavPad
 
 Browsing internet using Gamepads..!
 
