@@ -1,4 +1,4 @@
-![Navigate + GamePad](Assets/Logo/NavPad-logo.svg)
+![Navigate + GamePad](Assets/Logo/NavPad-logo.png)
 # NavPad
 
 Browsing internet using Gamepads..!
