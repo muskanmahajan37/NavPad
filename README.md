@@ -1,4 +1,4 @@
-# NavPAd
+# NavPad
 
 Browsing internet using Gamepads..!
 
